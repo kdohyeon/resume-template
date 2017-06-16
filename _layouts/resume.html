@@ -84,6 +84,19 @@
       <!-- end Education -->
       {% endif %}
 
+      {% if site.resume_section_journals %}
+      <section class="content-section">
+        <header class="section-header">
+          <h2>Journals</h2>
+        </header>
+        
+        {% for journals in site.data.journals %}
+        <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/CollegeOrUniversity">
+          
+        </div>
+        {% endfor %}
+      </section>
+      {% endif %}
 
       {% if site.resume_section_projects %}
       <!-- begin Projects -->
