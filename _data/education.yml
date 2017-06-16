@@ -1,6 +1,15 @@
 # Degree
-- degree: Associates Degree, Business Management
-  uni: Springfield College
-  year: 1984 &mdash; 1986
-  awards: Quickest to fall asleep
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: Combined M.S.-Ph.D. program, Industrial and Management Engineering (IME)
+  uni: Pohang University of Science and Technology (POSTECH)
+  year: July 2016 &mdash; Present
+  # awards: Quickest to fall asleep
+  # summary: If you had any meaningful roles at college, feel free to write about them here
+  
+- degree: B.S. in Computer Science and Engineering / Technological Management
+  uni: Ulsan National Institute of Science and Technology (UNIST)
+  year: March 2012 &mdash; February 2016
+  awards: Graduated with Magna Cum Laude
+  
+- degree: International Baccalaureate (IB) Program
+  uni: Hvitfeldtska Gymnasiet
+  year: September 2008 &mdash; May 2011
